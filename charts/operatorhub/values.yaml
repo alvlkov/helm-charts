@@ -3,7 +3,7 @@ fullnameOverride: ""
 
 subscriptions:
   - name: grafana-operator
-    channel: v4
+    channel: v5
     installPlanApproval: Automatic
     source: operatorhubio
     sourceNamespace: openshift-marketplace
